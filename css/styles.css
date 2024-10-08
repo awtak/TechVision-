@@ -1,0 +1,43 @@
+/* Estilos globais */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Hero Section */
+.hero {
+    background-color: #f8f9fa;
+}
+
+.hero h1 {
+    color: #333;
+}
+
+.hero p {
+    color: #666;
+}
+
+/* Botões */
+.btn-primary {
+    background-color: #6200ea;
+    border-color: #6200ea;
+}
+
+.btn-primary:hover {
+    background-color: #3700b3;
+    border-color: #3700b3;
+}
+
+/* Features Section */
+.features h5 {
+    color: #333;
+}
+
+.features p {
+    color: #666;
+}
+
+/* Footer */
+footer {
+    background-color: #212529;
+    color: white;
+}
